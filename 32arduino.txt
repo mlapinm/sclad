@@ -1,13 +1,13 @@
 32arduino.txt
 
-32.01 tiny+шлейф
+32.01 tiny+ЧЁЧ›Ч•Ч™Ч¤
 32.02 megs+eth shield+microsd
 32.03 shield+breadboard			2
 32.04 shield
 32.05 due
 32.06 uno gidroscope
-32.07 шлейфы
-32.08 хвосты
+32.07 ЧЁЧ›Ч•Ч™Ч¤пћЅ
+32.08 ЧҐЧ’ЧћЧЎЧўпћЅ
 32.09
 32.10
 32.11 
