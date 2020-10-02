@@ -1,0 +1,23 @@
+32arduino.txt
+
+32.01 tiny+רכויפ
+32.02 megs+eth shield+microsd
+32.03 shield+breadboard			2
+32.04 shield
+32.05 due
+32.06 uno gidroscope
+32.07 רכויפ
+32.08 ץגמסע
+32.09
+32.10
+32.11 
+32.12
+32.13
+32.14
+32.15
+32.16
+32.17
+32.18
+32.19
+32.20
+

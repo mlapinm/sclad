@@ -1,0 +1,23 @@
+52programmators.txt
+
+52.01 coocox + miniUsb cbl
+52.02 avr isp MkII
+52.03 stk500
+52.04 авто mini usb
+52.05 usb tiny
+52.06 usb asp
+52.07 Логический анализатор CY7C68013A-56
+52.08 isp arduino nano
+52.09 idc idc 10 pin
+52.10 jtag due
+52.11 
+52.12
+52.13
+52.14
+52.15
+52.16
+52.17
+52.18
+52.19
+52.20
+
