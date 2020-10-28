@@ -10,5 +10,5 @@
 - jupiter md file
 
 ## sclad
-[all](sclad/all.txt)  
+[all](b04sclad/all.txt)  
 
