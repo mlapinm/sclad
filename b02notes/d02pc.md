@@ -9,7 +9,7 @@
 
 ## setup pc
 [ccleaner](https://www.ccleaner.com/ru-ru/ccleaner/download/standard)  
-[]()  
+[Rufus usb](https://rufus.ie/ru_RU.html)  
 []()  
 []()  
 []()  
@@ -19,8 +19,9 @@
 свободная версия клонирует... весь диск целиком  
 
 ## windows 10
-[]()  
-[]()  
+[ovgorskiy](https://ovgorskiy.ru/)  
+/avi/installed2  
+[How To Enable Hyper-V On Windows 10 Home](https://www.itechtics.com/enable-hyper-v-windows-10-home/)  
 []()  
 
 ## magicbook
