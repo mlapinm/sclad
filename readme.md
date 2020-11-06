@@ -6,7 +6,7 @@
 []()  
 
 ## setup pc and
-[b02notes](b02notes/d02pc.md)  
+[setup pc and](b02notes/d02pc.md)  
 - jupiter md file
 
 ## sclad
