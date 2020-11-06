@@ -10,7 +10,7 @@
 ## setup pc
 [ccleaner](https://www.ccleaner.com/ru-ru/ccleaner/download/standard)  
 [Rufus usb](https://rufus.ie/ru_RU.html)  
-[]()  
+[klite-kodec](https://klite-kodec.ru/k-lite-codec-pack-dlya-windows-10/)  
 []()  
 []()  
 []()  
