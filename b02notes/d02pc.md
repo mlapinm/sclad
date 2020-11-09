@@ -21,6 +21,13 @@
 ## windows 10
 [ovgorskiy](https://ovgorskiy.ru/)  
 /avi/installed2  
+### setup windows 10
+- activation 180 days  
+  Desctop/soft/Aктиваторы/kms tools   
+  kmsAuto Lite Активация Windows  
+  (активация Office)  
+- drivers  
+  1  
 [How To Enable Hyper-V On Windows 10 Home](https://www.itechtics.com/enable-hyper-v-windows-10-home/)  
 []()  
 
