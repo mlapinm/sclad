@@ -27,7 +27,8 @@
   kmsAuto Lite Активация Windows  
   (активация Office)  
 - drivers  
-  1  
+  - chipset перезагрузка  
+  
 [How To Enable Hyper-V On Windows 10 Home](https://www.itechtics.com/enable-hyper-v-windows-10-home/)  
 []()  
 
