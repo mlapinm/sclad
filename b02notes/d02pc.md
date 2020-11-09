@@ -47,7 +47,8 @@
 
 ## 
 
-## jupiter md file
+## jupiter md file  
+[Начало работы с Anaconda](https://pythonru.com/baza-znanij/nachalo-raboty-s-anaconda)
 [Notebooks written entirely in Markdown](https://jupyterbook.org/file-types/myst-notebooks.html)   
 []()   
 []()   
