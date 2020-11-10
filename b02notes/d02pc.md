@@ -11,7 +11,8 @@
 [ccleaner](https://www.ccleaner.com/ru-ru/ccleaner/download/standard)  
 [Rufus usb](https://rufus.ie/ru_RU.html)  
 [klite-kodec](https://klite-kodec.ru/k-lite-codec-pack-dlya-windows-10/)  
-[]()  
+[Сохраняем драйвера при переустановке Windows 7/8/10](https://zen.yandex.ru/media/supercomputer/sohraniaem-draivera-pri-pereustanovke-windows-7810-5b223bbc77d0e67f1fc559e9)   
+
 []()  
 []()  
 
@@ -50,7 +51,9 @@
 ## jupiter md file  
 [Начало работы с Anaconda](https://pythonru.com/baza-znanij/nachalo-raboty-s-anaconda)
 [Notebooks written entirely in Markdown](https://jupyterbook.org/file-types/myst-notebooks.html)   
-[]()   
+dism /online /export-driver /destination:E:\Drivers   
+## other
+[Aspire V5-471P](https://www.acer.com/ac/ru/RU/content/support-product/4583?b=1&pn=NX.M3UER.003)   
 []()   
 []()   
 []()   
