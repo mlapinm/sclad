@@ -13,6 +13,15 @@
 [klite-kodec](https://klite-kodec.ru/k-lite-codec-pack-dlya-windows-10/)  
 [Сохраняем драйвера при переустановке Windows 7/8/10](https://zen.yandex.ru/media/supercomputer/sohraniaem-draivera-pri-pereustanovke-windows-7810-5b223bbc77d0e67f1fc559e9)   
 [Change anaconda ipython main directory](https://stackoverflow.com/questions/24117132/change-anaconda-ipython-main-directory)  
+```
+#jupyter-notebook-script.py
+import sys
+import notebook.notebookapp 
+
+notebook.notebookapp.NotebookApp.notebook_dir = u'C:\\path\\to\\folder'
+
+sys.exit(notebook.notebookapp.main())
+```
 []()  
 []()  
 []()  
