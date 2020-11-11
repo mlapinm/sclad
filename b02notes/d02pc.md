@@ -54,6 +54,8 @@
 dism /online /export-driver /destination:E:\Drivers   
 ## other
 [Aspire V5-471P](https://www.acer.com/ac/ru/RU/content/support-product/4583?b=1&pn=NX.M3UER.003)   
+C:\Users\Professional\Documents\apps\apps0\Soft\Активаторы\KMS Tools 04.2019\KMS Tools 04.2019\Programs\KMSAuto Lite Portable v1.5.5
+\KMSAuto x64.exe   
 []()   
 []()   
 []()   
