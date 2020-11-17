@@ -7,7 +7,15 @@
 [](#)   
 [jupiter md file](#jupiter-md-file)   
 
+# 1
+## 2
+### 3
+#### 4 
+##### 5
+###### 6
+
 ## setup pc
+Browsec - proxy - mozila firefox    
 [ccleaner](https://www.ccleaner.com/ru-ru/ccleaner/download/standard)  
 [Rufus usb](https://rufus.ie/ru_RU.html)  
 [klite-kodec](https://klite-kodec.ru/k-lite-codec-pack-dlya-windows-10/)  
