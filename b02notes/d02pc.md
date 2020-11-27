@@ -62,7 +62,10 @@ sys.exit(notebook.notebookapp.main())
 
 ## CUBI 5 10M msi
 [driver download](https://www.msi.com/Mini-PC/support/Cubi-5-10M#down-driver&Win10%2064)  
-## 
+## asus f6e
+f2 bios Esc boot
+[driverscape](https://www.driverscape.com/manufacturers/asus/laptops-desktops/f6e/4793)  
+[]()  
 
 ## 
 
