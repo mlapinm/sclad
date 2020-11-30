@@ -15,6 +15,7 @@
 ###### 6
 
 ## setup pc
+[AOMEI Partition Assistant Standard 9.0](https://www.aomeitech.com/pa/standard.html)  
 Browsec - proxy - mozila firefox    
 [ccleaner](https://www.ccleaner.com/ru-ru/ccleaner/download/standard)  
 [Rufus usb](https://rufus.ie/ru_RU.html)  
