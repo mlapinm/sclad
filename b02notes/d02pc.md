@@ -1,5 +1,5 @@
 [setup pc](#setup-pc)   
-[for programming](#for-programming)
+[for programming](#for-programming)  
 [windows 10](#windows-10)   
 [magicbook](#magicbook)   
 [CUBI 5 10M msi](#CUBI-5-10M)   
