@@ -1,4 +1,5 @@
 [setup pc](#setup-pc)   
+[for programming](#for-programming)
 [windows 10](#windows-10)   
 [magicbook](#magicbook)   
 [CUBI 5 10M msi](#CUBI-5-10M)   
@@ -7,12 +8,6 @@
 [](#)   
 [jupiter md file](#jupiter-md-file)   
 
-# 1
-## 2
-### 3
-#### 4 
-##### 5
-###### 6
 
 ## setup pc
 [AOMEI Partition Assistant Standard 9.0](https://www.aomeitech.com/pa/standard.html)  
@@ -21,6 +16,8 @@ Browsec - proxy - mozila firefox
 [Rufus usb](https://rufus.ie/ru_RU.html)  
 [klite-kodec](https://klite-kodec.ru/k-lite-codec-pack-dlya-windows-10/)  
 [Сохраняем драйвера при переустановке Windows 7/8/10](https://zen.yandex.ru/media/supercomputer/sohraniaem-draivera-pri-pereustanovke-windows-7810-5b223bbc77d0e67f1fc559e9)   
+
+## for programming
 [Change anaconda ipython main directory](https://stackoverflow.com/questions/24117132/change-anaconda-ipython-main-directory)  
 ```
 #jupyter-notebook-script.py
@@ -30,8 +27,23 @@ import notebook.notebookapp
 notebook.notebookapp.NotebookApp.notebook_dir = u'C:\\path\\to\\folder'
 
 sys.exit(notebook.notebookapp.main())
-```
-[]()  
+```  
+### VS Code
+[Установка и настройка VS Code для Python](https://www.youtube.com/watch?v=Re2KdeoRhXY)
+code.visualstudio.com  
+Russian Language Pack for Visual Studio Code  
+Python  
+ms-python.python  
+Python extension for Visual Studio Code  
+Linting, Debugging (multi-threaded, remote), Intellisense, Jupyter Notebooks, code form
+ctrl shift p  
+interpretator python  
+Linter pylint is not installed - анализ кода  
+Файл параметры   
+Auto Save onFocusChange  
+Окно Auto Detect Color Scheme  
+
+[Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)  
 []()  
 []()  
 []()  
