@@ -29,6 +29,8 @@ notebook.notebookapp.NotebookApp.notebook_dir = u'C:\\path\\to\\folder'
 sys.exit(notebook.notebookapp.main())
 ```  
 ### VS Code
+- ctrl shift p - выбор интерпретатора
+- ctrl shift v - veiw markdown
 [Установка и настройка VS Code для Python](https://www.youtube.com/watch?v=Re2KdeoRhXY)
 code.visualstudio.com  
 Russian Language Pack for Visual Studio Code  
