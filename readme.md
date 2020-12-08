@@ -10,6 +10,9 @@
 
 ## notes
 [note2](b02notes/b0202notes.md)  
+- links
+  
+  
 
 ## setup pc and
 [setup pc and](b02notes/d02pc.md)  
