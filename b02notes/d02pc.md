@@ -10,10 +10,18 @@
 
 
 ## setup pc
+
 [AOMEI Partition Assistant Standard 9.0](https://www.aomeitech.com/pa/standard.html)  
 Browsec - proxy - mozila firefox    
 [ccleaner](https://www.ccleaner.com/ru-ru/ccleaner/download/standard)  
-[Rufus usb](https://rufus.ie/ru_RU.html)  
+[ditto multi clipboard](https://sourceforge.net/p/ditto-cp/wiki/Home/)  
+[WinSCP: SFTP-, FTP-, WebDAV- и SCP-клиент](https://winscp.net/eng/docs/lang:ru)   
+[Inkscape (Инкскейп) — свободно распространяемый векторный графический редактор](https://inkscape.org/ru/)  
+[Rufus usb](https://rufus.ie/ru_RU.html)   
+[удаленного доступа и поддержки](https://www.teamviewer.com/ru/)  
+[]()  
+[Avidemux резка видео](http://fixounet.free.fr/avidemux/)  
+[]()  
 [klite-kodec](https://klite-kodec.ru/k-lite-codec-pack-dlya-windows-10/)  
 [Сохраняем драйвера при переустановке Windows 7/8/10](https://zen.yandex.ru/media/supercomputer/sohraniaem-draivera-pri-pereustanovke-windows-7810-5b223bbc77d0e67f1fc559e9)   
 
