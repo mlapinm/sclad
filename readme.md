@@ -10,7 +10,8 @@
 
 ## notes
 [note2](b02notes/b0202notes.md)  
-- links
+- notes02avi
+- inks
   
   
 
