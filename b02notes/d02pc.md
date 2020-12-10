@@ -10,7 +10,7 @@
 
 
 ## setup pc
-
+[Sandboxie](https://www.softportal.com/software-16837-sandboxie.html)  
 [AOMEI Partition Assistant Standard 9.0](https://www.aomeitech.com/pa/standard.html)  
 Browsec - proxy - mozila firefox    
 [ccleaner](https://www.ccleaner.com/ru-ru/ccleaner/download/standard)  
