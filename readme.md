@@ -1,5 +1,5 @@
 [notes](#notes)  
-[](#)  
+[IPTV](#IPTV)  
 [](#)  
 [setup pc and](#setup-pc-and)  
 [sclad](#sclad)  
@@ -13,7 +13,8 @@
 - notes02avi
 - inks
   
-  
+## IPTV  
+[IPTV](b02notes/b1022iptv.md)  
 
 ## setup pc and
 [setup pc and](b02notes/d02pc.md)  
