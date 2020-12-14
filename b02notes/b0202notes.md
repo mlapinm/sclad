@@ -11,6 +11,16 @@
 
 
 ## notes02avi
+D:\programs\f02node\f2012crud  
+https://github.com/mlapinm/f02node/tree/main/f2012crud  
+https://github.com/mlapinm/jnotebook/blob/master/jsnode/README.md  
+https://github.com/mlapinm/jnotebook/blob/master/jsnode/README.md#Creating-Todo-MongoDB-CRUD-Application-from-Scratch  
+
+
+  
+  
+  
+
 
 ## links
 ### android
