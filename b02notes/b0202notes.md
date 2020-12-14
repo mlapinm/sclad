@@ -11,6 +11,7 @@
 
 
 ## notes02avi
+14.12.20  
 D:\programs\f02node\f2012crud  
 https://github.com/mlapinm/f02node/tree/main/f2012crud  
 https://github.com/mlapinm/jnotebook/blob/master/jsnode/README.md  
