@@ -60,7 +60,7 @@ Learn JavaScript / jQuery LearnWebCode
 [REACT + NODEJS Сайт за 3 часа с нуля - YouTube](https://www.youtube.com/watch?v=ivDjWYcKDZI)   
 Владилен Минин  
 [Web Developer Blog - YouTube](https://www.youtube.com/c/SuprunAlexey/playlists)   
-Уроки jQuery
+Уроки jQuery  
 [Пишем простую игру на React. React. Lite Level - YouTube](https://www.youtube.com/watch?v=sTxcoJwc1mU)   
 крестики нолики  
 ### sweets
