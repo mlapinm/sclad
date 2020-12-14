@@ -12,12 +12,15 @@
 
 ## notes02avi
 14.12.20  
+Creating Todo MongoDB CRUD Application from Scratch  
 D:\programs\f02node\f2012crud  
 https://github.com/mlapinm/f02node/tree/main/f2012crud  
 https://github.com/mlapinm/jnotebook/blob/master/jsnode/README.md  
 https://github.com/mlapinm/jnotebook/blob/master/jsnode/README.md#Creating-Todo-MongoDB-CRUD-Application-from-Scratch  
 
-
+Data Visualization with D3.js - Full Tutorial Course  
+https://github.com/mlapinm/jnotebook/blob/master/jsnode/README.md
+https://www.youtube.com/watch?v=_8V5o2UHG0E  
   
   
   
