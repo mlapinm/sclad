@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=_8V5o2UHG0E
 
 ## links
 ### springhost
-http://f0496840.xsph.ru/
+http://f0496840.xsph.ru/  
 https://cp.sprinthost.ru/customer/domains/show?domain=f0496840.xsph.ru  
 
 ### android
