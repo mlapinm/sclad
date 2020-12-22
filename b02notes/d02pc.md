@@ -53,6 +53,8 @@ Linter pylint is not installed - анализ кода
 Auto Save onFocusChange  
 Окно Auto Detect Color Scheme  
 - live server - изменения на странице. Установить. Запустить - ctrl shift p  
+- [Visual Studio Code Crash Course - fcc](https://www.youtube.com/watch?v=WPqXP_kLzpo)  
+
 
 [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)  
 []()  
