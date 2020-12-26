@@ -3,9 +3,9 @@
 [](#)  
 [setup pc and](#setup-pc-and)  
 [sclad](#sclad)  
+[sclad home](#sclad-home)  
 [](#)  
-[](#)  
-[](#)  
+[links](#links)  
 [](#)  
 
 ## notes
@@ -22,4 +22,11 @@
 
 ## sclad
 [all](b04sclad/all.txt)  
+
+## sclad home
+[]()  
+
+## links
+### Гарвардский курс CS50 на русском. Все серии
+[Гарвардский курс CS50 на русском. Все серии](https://habr.com/ru/company/vertdider/blog/403823/)
 
