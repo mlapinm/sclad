@@ -13,9 +13,9 @@ Arduino Mega 2560
 ## UNO Ethernet Shield W5100
 UNO Ethernet Shield W5100 Development board for UNO Mega
 ![UNO Ethernet Shield W5100](https://roboshop.spb.ru/image/cache/catalog/demo/product/ethernet-shield-w5100-800x800.jpg)  
-## 
-  
-![]()  
+## VS1003 MP3 module
+VS1003 MP3 module onboard microphone  
+![VS1003 MP3 module](https://roboshop.spb.ru/image/cache/catalog/demo/product/VS1003-800x800.jpg)  
 ## 
   
 ![]()  
