@@ -24,7 +24,7 @@
 [all](b04sclad/all.txt)  
 
 ## sclad home
-[]()  
+[sclad home](b08sclad/b2022all.md)  
 
 ## links
 ### Гарвардский курс CS50 на русском. Все серии
