@@ -28,6 +28,6 @@
 
 ## links
 ### Гарвардский курс CS50 на русском. Все серии
-[Гарвардский курс CS50 на русском. Все серии](https://habr.com/ru/company/vertdider/blog/403823/)
+[Гарвардский курс CS50 на русском. Все серии](https://habr.com/ru/company/vertdider/blog/403823/)  
 [and links](b02notes/README.md)  
 
