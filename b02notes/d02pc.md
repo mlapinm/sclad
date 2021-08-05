@@ -10,6 +10,13 @@
 
 
 ## setup pc
+### inkscape
+https://www.inkscape.org/  
+[Векторизация карандашного наброска в программе Inkscape (урок)](https://tabun.everypony.ru/blog/draw_help/51004.html)  
+[Inkscape Tutorial | Import PDF Files into Inkscape | Free Background Graphic](https://www.youtube.com/watch?v=Z9Xr_49K5tM)  
+D:\mailCloud\prjother\b2022mult\inkscape
+
+
 [Sandboxie](https://www.softportal.com/software-16837-sandboxie.html)  
 [AOMEI Partition Assistant Standard 9.0](https://www.aomeitech.com/pa/standard.html)  
 Browsec - proxy - mozila firefox    
